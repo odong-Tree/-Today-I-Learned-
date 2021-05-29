@@ -1,8 +1,10 @@
-# 210527
+# 210527: BidirectionalCollection 등
 
 # 학습 내용
 
 - String, Array
+
+<br>
 
 # 고민한 점 / 해결 방법
 
@@ -31,6 +33,8 @@
 let age = 10
 let str = "제 나이는 \(age)살 입니다."
 ```
+
+<br>
 
 # 느낀점
 

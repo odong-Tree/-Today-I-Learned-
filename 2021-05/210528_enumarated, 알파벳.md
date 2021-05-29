@@ -1,9 +1,11 @@
-# 210528
+# 210528: enuarated, 알파벳
 
 # 학습 내용
 
 - 코딩 테스트 문제 풀기
 - 'String은 왜 Array처럼 사용할 수 없을까?' 포스팅 작성 (하지만 공부가 더 필요!! ㅜ)
+
+<br>
 
 # 고민한 점 / 해결  방법
 
@@ -42,6 +44,8 @@ let alpabet = Array(65 ... 90).map{ String(UnicodeScalar($0)!) }
 
 - 그럼 둘 중에 뭐가 더 빠를까? 뭐가  더 효율적일까
 - 라이노님이 공유해준 링크: [https://stackoverflow.com/questions/49808837/initialize-a-string-from-a-range-of-characters-in-swift](https://stackoverflow.com/questions/49808837/initialize-a-string-from-a-range-of-characters-in-swift)
+
+<br>
 
 # 느낀점
 
